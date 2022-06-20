@@ -3,7 +3,7 @@
   <img src "https://github-readme-stats.vercel.app/api?username=orayodeji&show_icons=true&theme=radical"/>
 </div> -->
 ## Hi there 👋
-My name is Tunji, a software engineer proficient in developing, testing technological solutions and design interfaces;
+My name is [Tunji](https://tuunji-ayodeji.netlify.app/ "Portfolio"), a software engineer proficient in developing, testing technological solutions and design interfaces;
 
 
 - 🔭 I’m currently working at Tishlasb Technologies.
@@ -12,6 +12,7 @@ My name is Tunji, a software engineer proficient in developing, testing technolo
 - 🤔 I’m looking for help with creating technoological solutions for fast and 
 <!-- - 💬 Ask me about ... -->
 - 📫 How to reach me on twitter: [@tuunji_](https://twitter.com/tuunji_ "dev")
+
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
