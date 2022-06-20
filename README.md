@@ -3,7 +3,7 @@
   <img src "https://github-readme-stats.vercel.app/api?username=orayodeji&show_icons=true&theme=radical"/>
 </div> -->
 ## Hi there 👋
-My name is Tunji,a software engineer proficient in developing, testing technological solutions and design interfaces;
+My name is Tunji, a software engineer proficient in developing, testing technological solutions and design interfaces;
 
 
 - 🔭 I’m currently working at Tishlasb Technologies.
@@ -15,11 +15,11 @@ My name is Tunji,a software engineer proficient in developing, testing technolog
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
-#Programming Languages
+# Programming Languages
 - Javascript
 - Dart
 
-#Frameworks
+# Frameworks
 - Vue js
 - Express Js
 - Adonis Js
