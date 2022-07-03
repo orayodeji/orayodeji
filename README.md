@@ -6,10 +6,10 @@
 My name is [Tunji](https://tuunji-ayodeji.netlify.app/ "Portfolio"), a software engineer proficient in developing, testing technological solutions and design interfaces;
 
 
-- 🔭 I’m currently working at Tishlasb Technologies.
+- 🔭 I’m currently working at Tishlabs Technologies.
 - 🌱 I’m currently learning flutter for mobile app development widen my skills across all 
 <!-- - 👯 I’m looking to collaborate on ... -->
-- 🤔 I’m looking for help with creating technoological solutions for fast and 
+- 🤔 I’m looking for help with creating technoological solutions for fast and easy access to technology.
 <!-- - 💬 Ask me about ... -->
 - 📫 How to reach me on twitter: [@tuunji_](https://twitter.com/tuunji_ "dev")
 
